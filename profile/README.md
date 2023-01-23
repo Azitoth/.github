@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo_scaled.png" style="max-width:500px" />
+  <img src="assets/logo_scaled.png" style="max-width:500px" />
 </p>
 
 # Welcome to Azitoth!
@@ -26,5 +26,5 @@ We set out to make a Minecraft server that isn't quite like the rest. Since a lo
 </p>
 
 <p align="center">
-  <img src="../assets/icon_256.png" style="max-width:500px" />
+  <img src="assets/icon_256.png" style="max-width:500px" />
 </p>
