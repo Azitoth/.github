@@ -12,11 +12,11 @@
 
 ## What is Azitoth?
 
-[Azitoth](https://azitoth.com) is a Minecraft server. It is loving owned and operated by the Azitoth core members. This organization houses various repositories that we use to administer our server to our audience!
+[Azitoth](https://azitoth.com) is a Minecraft server. It is lovingly owned and operated by the Azitoth Core members. This organization houses various repositories that we use to administer our server to our community!
 
 ## What makes Azitoth different?
 
-We set out to make a Minecraft server that isn't quite like the rest. Since a lot of the core members have a background in software engineering, we decided to use our skills to create something we thought could truly special. Come take a look for yourself!
+We set out to make a Minecraft server that isn't quite like the rest. Since a lot of the Core members have a background in software engineering, we decided to use our skills to create something we thought could be truly special. Come take a look for yourself!
 
 <br/>
 <br/>
