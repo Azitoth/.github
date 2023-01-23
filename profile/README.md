@@ -22,7 +22,7 @@ We set out to make a Minecraft server that isn't quite like the rest. Since a lo
 <br/>
 
 <p align="center">
-    Made with ❤️ by the Azitoth Core Team
+    Made with ❤️ by the Azitoth Core team
 </p>
 
 <p align="center">
